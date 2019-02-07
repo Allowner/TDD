@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\TDD\TDDTests\bin\Debug\TDDTests.dll
+C:\Users\asus\source\repos\TDD\TDDTests\bin\Debug\TDDTests.pdb
+C:\Users\asus\source\repos\TDD\TDDTests\bin\Debug\nunit.framework.dll
+C:\Users\asus\source\repos\TDD\TDDTests\bin\Debug\TDD.dll
+C:\Users\asus\source\repos\TDD\TDDTests\bin\Debug\TDD.pdb
+C:\Users\asus\source\repos\TDD\TDDTests\bin\Debug\nunit.framework.pdb
+C:\Users\asus\source\repos\TDD\TDDTests\bin\Debug\nunit.framework.xml
+C:\Users\asus\source\repos\TDD\TDDTests\obj\Debug\TDDTests.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\TDD\TDDTests\obj\Debug\TDDTests.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\TDD\TDDTests\obj\Debug\TDDTests.csproj.CopyComplete
+C:\Users\asus\source\repos\TDD\TDDTests\obj\Debug\TDDTests.dll
+C:\Users\asus\source\repos\TDD\TDDTests\obj\Debug\TDDTests.pdb

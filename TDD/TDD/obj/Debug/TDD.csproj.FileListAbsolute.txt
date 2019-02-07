@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\TDD\TDD\bin\Debug\TDD.dll
+C:\Users\asus\source\repos\TDD\TDD\bin\Debug\TDD.pdb
+C:\Users\asus\source\repos\TDD\TDD\obj\Debug\TDD.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\TDD\TDD\obj\Debug\TDD.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\TDD\TDD\obj\Debug\TDD.dll
+C:\Users\asus\source\repos\TDD\TDD\obj\Debug\TDD.pdb
